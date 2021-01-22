@@ -1,7 +1,5 @@
 ## Sequelize initialization flow
 
-<br/>
-
 ### **Setup**
 
 1. Inisialisasi project
