@@ -24,8 +24,6 @@
 
     > npx sequelize db:create
 
-<br/>
-
 ### **Model & migration**
 
 7. Buat model
@@ -54,8 +52,6 @@
 
     > npx sequelize db:migrate:undo
 
-<br/>
-
 ### **Seeding**
 
 12. Buat file seed
@@ -66,8 +62,6 @@
 
     > npx sequelize db:seed --seed <file-seed-yg-mana>
 
-<br/>
-
 ### **Usage**
 
 14. Ambil model pakai require
@@ -77,8 +71,6 @@
     > contoh: Pokemon.findAll().then().catch()
     >
     > -> Lebih lanjut, bisa cek [model methods list](https://sequelize.org/v5/class/lib/model.js~Model.html) dan [common usage](https://sequelize.org/v5/manual/models-usage.html)
-
-<br/>
 
 ### **Main reference**
 
