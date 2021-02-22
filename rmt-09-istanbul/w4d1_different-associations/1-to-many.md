@@ -1,6 +1,6 @@
 Project -> Features
 
-# Setelah migrasi digenerate
+### Setelah migrasi digenerate
 
 Projects { normal }
 
@@ -16,7 +16,7 @@ Features { ...,
     }
 }
 
-# Ubah file yang ada asosiasinya di model
+### Ubah file yang ada asosiasinya di model
 
 /models/features.js
 

@@ -2,7 +2,7 @@ Features <-
     FeatureEmployees
 -> Employees
 
-# Setelah migrasi digenerate
+### Setelah migrasi digenerate
 
 Features { normal }
 Employees { normal }
@@ -29,7 +29,7 @@ FeatureEmployees {
     }
 }
 
-# Ubah file yang ada asosiasinya di model
+### Ubah file yang ada asosiasinya di model
 
 /models/features.js
 
