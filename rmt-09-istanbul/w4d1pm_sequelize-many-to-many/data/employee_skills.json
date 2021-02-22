@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "employeeId": 1,
+        "skillId": 1,
+        "experienceInYears": 5
+    },
+    {
+        "id": 2,
+        "employeeId": 2,
+        "skillId": 1,
+        "experienceInYears": 3
+    },
+    {
+        "id": 3,
+        "employeeId": 3,
+        "skillId": 1,
+        "experienceInYears": 4
+    },
+    {
+        "id": 4,
+        "employeeId": 3,
+        "skillId": 2,
+        "experienceInYears": 4
+    },
+    {
+        "id": 5,
+        "employeeId": 4,
+        "skillId": 2,
+        "experienceInYears": 5
+    },
+    {
+        "id": 6,
+        "employeeId": 2,
+        "skillId": 3,
+        "experienceInYears": 4
+    },
+    {
+        "id": 7,
+        "employeeId": 3,
+        "skillId": 4,
+        "experienceInYears": 2
+    },
+    {
+        "id": 8,
+        "employeeId": 4,
+        "skillId": 4,
+        "experienceInYears": 3
+    },
+    {
+        "id": 9,
+        "employeeId": 2,
+        "skillId": 5,
+        "experienceInYears": 2
+    },
+    {
+        "id": 10,
+        "employeeId": 2,
+        "skillId": 5,
+        "experienceInYears": 3
+    },
+    {
+        "id": 11,
+        "employeeId": 5,
+        "skillId": 6,
+        "experienceInYears": 5
+    },
+    {
+        "id": 12,
+        "employeeId": 2,
+        "skillId": 7,
+        "experienceInYears": 3
+    },
+    {
+        "id": 13,
+        "employeeId": 3,
+        "skillId": 7,
+        "experienceInYears": 2
+    },
+    {
+        "id": 14,
+        "employeeId": 5,
+        "skillId": 7,
+        "experienceInYears": 4
+    },
+    {
+        "id": 15,
+        "employeeId": 1,
+        "skillId": 8,
+        "experienceInYears": 5
+    },
+    {
+        "id": 15,
+        "employeeId": 2,
+        "skillId": 8,
+        "experienceInYears": 5
+    },
+    {
+        "id": 15,
+        "employeeId": 3,
+        "skillId": 8,
+        "experienceInYears": 3
+    },
+    {
+        "id": 15,
+        "employeeId": 5,
+        "skillId": 8,
+        "experienceInYears": 3
+    },
+    {
+        "id": 15,
+        "employeeId": 2,
+        "skillId": 9,
+        "experienceInYears": 4
+    },
+    {
+        "id": 15,
+        "employeeId": 5,
+        "skillId": 9,
+        "experienceInYears": 3
+    }
+]
